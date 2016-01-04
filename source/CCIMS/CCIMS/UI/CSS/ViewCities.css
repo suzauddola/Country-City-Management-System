@@ -1,0 +1,27 @@
+﻿#wrapper {
+    margin: auto;
+    width: 1300px;
+}
+
+#viewCitiesPanel {
+    width: 950px;
+    margin: auto;
+}
+
+#gridViewPanel {
+    width: 1250px;
+    margin: auto;
+}
+
+#searchButton {
+    width: 70px;
+    margin-left: 15px;
+}
+
+.panel-heading {
+    font-weight: bold;
+}
+
+#pagination {
+    margin-left: 550px;
+}

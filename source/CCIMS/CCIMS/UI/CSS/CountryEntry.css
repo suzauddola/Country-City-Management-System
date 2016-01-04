@@ -1,0 +1,46 @@
+﻿#wrapper {
+    width: 1300px;
+    margin: auto;
+}
+
+#countryFormPanel {
+    width: 950px;
+    margin: auto;
+}
+
+.button {
+    margin-left: 70px;
+}
+
+#saveButton {
+    width: 70px;
+}
+
+.cancelButton {
+    width: 70px;
+}
+
+.panel-heading {
+    font-weight: bold;
+}
+
+.form-control {
+    margin-left: 70px;
+}
+
+#countryEntryEditor {
+    margin-left: 72px;
+}
+
+#cityNameTextBox {
+    width: 210px;
+}
+
+#gridViewPanel {
+    width: 1250px;
+    margin: auto;
+}
+
+#countryEntryGridView {
+    margin-left: 30px;
+}

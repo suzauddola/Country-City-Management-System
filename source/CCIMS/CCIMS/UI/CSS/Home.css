@@ -1,0 +1,30 @@
+﻿#wrapper {
+    width: 1300px;
+    height: 700px;
+    margin: auto;
+}
+
+#entryPanel {
+    width: 950px;
+    height: 250px;
+    margin: auto;
+}
+
+#viewPanelr {
+    width: 950px;
+    height: 250px;
+    margin: auto;
+}
+
+#button {
+    width: 300px;
+}
+
+#buttonAlaignment {
+    margin-left: 290px;
+    margin-top: 30px;
+}
+
+.panel-heading {
+    font-weight: bold;
+}

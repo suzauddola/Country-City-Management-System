@@ -1,0 +1,38 @@
+﻿#wrapper {
+    width: 1300px;
+    margin: auto;
+}
+
+#gridViewPanel {
+    width: 1250px;
+    margin: auto;
+}
+
+#searchPanel {
+    width: 950px;
+    margin: auto;
+}
+
+.panel-heading {
+    font-weight: bold;
+}
+
+#countryNameTextBox {
+    margin-left: 15px;
+}
+
+#pagination {
+    margin: auto;
+}
+
+#searchButton {
+    margin-left: 15px;
+}
+
+#countryNameSearchTextBox {
+    margin-left: 15px;
+}
+
+#pagination {
+    margin-left: 550px;
+}

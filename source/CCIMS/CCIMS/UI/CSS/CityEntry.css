@@ -1,0 +1,61 @@
+﻿#wrapper {
+    width: 1300px;
+    margin: auto;
+}
+
+#cityEntryPanel {
+    width: 950px;
+    margin: auto;
+}
+
+.entryForm {
+    margin: auto;
+}
+
+.button {
+    margin-left: 70px;
+}
+
+#saveButton {
+    width: 70px;
+}
+
+.cancelButton {
+    width: 70px;
+}
+
+.panel-heading {
+    font-weight: bold;
+}
+
+.form-control {
+    margin-left: 15px;
+}
+
+#countryDropDownList {
+    margin-left: 15px;
+    width: 210px;
+    height: 35px;
+}
+
+#cityEntryEditor {
+    margin-left: 78px;
+}
+
+#cityNameTextBox {
+    margin-left: 78px;
+    width: 210px;
+}
+
+#gridViewPanel {
+    width: 1250px;
+    margin: auto;
+}
+
+#cityEntryGridView {
+    margin: auto;
+}
+
+#messageLabel {
+    margin-left: 15px;
+}

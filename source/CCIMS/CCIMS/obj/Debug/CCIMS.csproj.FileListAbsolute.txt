@@ -1,0 +1,65 @@
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\csc.exe
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\System.Collections.Immutable.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\System.Reflection.Metadata.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\vbc.exe
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\VBCSCompiler.exe
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\roslyn\VBCSCompiler.exe.config
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\CCIMS.dll.config
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\CCIMS.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\bin\CCIMS.pdb
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\obj\Debug\CCIMS.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\obj\Debug\CCIMS.pdb
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\CCIMS\CCIMS\obj\Debug\CCIMS.csprojResolveAssemblyReference.cache
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\csc.exe
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\vbc.exe
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\CCIMS.dll.config
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\CCIMS.dll
+C:\Users\P\Desktop\CCIMS\CCIMS\bin\CCIMS.pdb
+C:\Users\P\Desktop\CCIMS\CCIMS\obj\Debug\CCIMS.csprojResolveAssemblyReference.cache
+C:\Users\P\Desktop\CCIMS\CCIMS\obj\Debug\CCIMS.dll
+C:\Users\P\Desktop\CCIMS\CCIMS\obj\Debug\CCIMS.pdb
+G:\ProjectOne\CCIMS\CCIMS\bin\CCIMS.dll.config
+G:\ProjectOne\CCIMS\CCIMS\bin\CCIMS.dll
+G:\ProjectOne\CCIMS\CCIMS\bin\CCIMS.pdb
+G:\ProjectOne\CCIMS\CCIMS\obj\Debug\CCIMS.dll
+G:\ProjectOne\CCIMS\CCIMS\obj\Debug\CCIMS.pdb
+G:\ProjectOne\CCIMS\CCIMS\obj\Debug\CCIMS.csprojResolveAssemblyReference.cache
+F:\ProjectOne\CCIMS\CCIMS\bin\CCIMS.dll.config
+F:\ProjectOne\CCIMS\CCIMS\bin\CCIMS.dll
+F:\ProjectOne\CCIMS\CCIMS\bin\CCIMS.pdb
+F:\ProjectOne\CCIMS\CCIMS\obj\Debug\CCIMS.dll
+F:\ProjectOne\CCIMS\CCIMS\obj\Debug\CCIMS.pdb
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\New folder\ProjectOne\CCIMS\CCIMS\bin\CCIMS.dll.config
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\New folder\ProjectOne\CCIMS\CCIMS\bin\CCIMS.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\New folder\ProjectOne\CCIMS\CCIMS\bin\CCIMS.pdb
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\New folder\ProjectOne\CCIMS\CCIMS\obj\Debug\CCIMS.dll
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\New folder\ProjectOne\CCIMS\CCIMS\obj\Debug\CCIMS.pdb
+J:\Working-File\Programming\Dot.Net\My Exercise\Web App\New folder\ProjectOne\CCIMS\CCIMS\obj\Debug\CCIMS.csprojResolveAssemblyReference.cache
+C:\Users\P\Desktop\ProjectOne (MVC-King)\CCIMS\CCIMS\bin\CCIMS.dll.config
+C:\Users\P\Desktop\ProjectOne (MVC-King)\CCIMS\CCIMS\bin\CCIMS.dll
+C:\Users\P\Desktop\ProjectOne (MVC-King)\CCIMS\CCIMS\bin\CCIMS.pdb
+C:\Users\P\Desktop\ProjectOne (MVC-King)\CCIMS\CCIMS\obj\Debug\CCIMS.csprojResolveAssemblyReference.cache
+C:\Users\P\Desktop\ProjectOne (MVC-King)\CCIMS\CCIMS\obj\Debug\CCIMS.dll
+C:\Users\P\Desktop\ProjectOne (MVC-King)\CCIMS\CCIMS\obj\Debug\CCIMS.pdb
+H:\MVC-KING (SEIP-10)\CCIMS\CCIMS\bin\CCIMS.dll.config
+H:\MVC-KING (SEIP-10)\CCIMS\CCIMS\bin\CCIMS.dll
+H:\MVC-KING (SEIP-10)\CCIMS\CCIMS\bin\CCIMS.pdb
+H:\MVC-KING (SEIP-10)\CCIMS\CCIMS\obj\Debug\CCIMS.csprojResolveAssemblyReference.cache
+H:\MVC-KING (SEIP-10)\CCIMS\CCIMS\obj\Debug\CCIMS.dll
+H:\MVC-KING (SEIP-10)\CCIMS\CCIMS\obj\Debug\CCIMS.pdb
