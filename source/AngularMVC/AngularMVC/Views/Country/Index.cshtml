@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Country";
+}
+
+<div ng-controller="countryCtrl">
+    
+    <h2 style="text-align: center;">{{Heading}}</h2>
+
+    <table>
+        <thead>
+        <tr>
+            <th>Serial</th>
+            <th>Name</th>
+            <th>About</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="Country in Countries">
+            <td>{{Country.Id}}</td>
+            <td>{{Country.Name}}</td>
+            <td>{{Country.About}}</td>
+        </tr>
+        </tbody>
+
+    </table>
+</div>

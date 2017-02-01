@@ -1,0 +1,163 @@
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\ApplicationInsights.config
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\csc.exe
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\vbc.exe
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\AngularMVC.dll.config
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\AngularMVC.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\AngularMVC.pdb
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Antlr3.Runtime.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\EntityFramework.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\EntityFramework.SqlServer.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.Web.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Newtonsoft.Json.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Owin.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.Helpers.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.Mvc.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.Optimization.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.Razor.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\WebGrease.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.Web.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.Helpers.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.Mvc.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.Optimization.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.Razor.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Antlr3.Runtime.pdb
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Newtonsoft.Json.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\EntityFramework.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\EntityFramework.SqlServer.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\obj\Debug\AngularMVC.csprojResolveAssemblyReference.cache
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\obj\Debug\AngularMVC.dll
+c:\users\codemen_pc\documents\visual studio 2015\Projects\AngularMVC\AngularMVC\obj\Debug\AngularMVC.pdb
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\ApplicationInsights.config
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\csc.exe
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\vbc.exe
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\AngularMVC.dll.config
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\AngularMVC.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\AngularMVC.pdb
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Antlr3.Runtime.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\EntityFramework.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.Web.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Newtonsoft.Json.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Owin.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.Helpers.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.Mvc.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.Optimization.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.Razor.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\WebGrease.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.Web.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.Helpers.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.Mvc.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.Optimization.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.Razor.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Antlr3.Runtime.pdb
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Newtonsoft.Json.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\EntityFramework.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\obj\Debug\AngularMVC.dll
+C:\Users\yyes\Downloads\Projects\AngularMVC\AngularMVC\obj\Debug\AngularMVC.pdb
